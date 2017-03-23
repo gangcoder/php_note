@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
 if (count($argv) == 1) {
     printf("%s\n%s\n", date("Y-m-d H:i:s"), time());
